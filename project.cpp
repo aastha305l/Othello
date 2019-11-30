@@ -1,8 +1,12 @@
 //Name: Aastha Lamichhane
 //File: project.cpp
+//Description
+//Symbols based Othello game
 
 #include <iostream>
 #include <cstring>
+
+
 
 const int SIZE = 8;
 bool BLACK_PASS = false;
